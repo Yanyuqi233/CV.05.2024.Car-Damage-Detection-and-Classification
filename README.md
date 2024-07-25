@@ -35,3 +35,5 @@ The trained, mature models perform well in solving this classification problem.
 <div align="center">
   <img src="./Multi-class.png" alt=" Multiple Classification ROC Curve" width="50%" height="auto">
 </div>
+The ResNet50 model performs well overall.
+
