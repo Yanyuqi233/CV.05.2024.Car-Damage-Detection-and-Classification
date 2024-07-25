@@ -15,7 +15,7 @@ Our approach is innovative in several ways:
 ## Approaches
 ### Binary classification (distinguishes between nondamaged and damaged cars)
 <div align="center">
-  <img src="./Binary.png" alt=" Binary Classification Accuracy">
+  <img src="./Binary.png" alt=" Binary Classification Accuracy" width="50%" height="auto">
 </div>
 For the binary classification task:
 * Compare the performance of DenseNet121, MobileNet-v2, ResNet-50, and CLIP against a baseline model.
@@ -23,7 +23,7 @@ For the binary classification task:
 
 ### Multiple classification (identifies the type and location of damages (front, side, rear))
 <div align="center">
-  <img src="./Multi-class.png" alt=" Multiple Classification ROC Curve">
+  <img src="./Multi-class.png" alt=" Multiple Classification ROC Curve" width="50%" height="auto">
 </div>
 For the multiple classification task:
 * Utilize ResNet-50 and CLIP models to categorize damages into different classes.
