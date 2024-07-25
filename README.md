@@ -15,7 +15,7 @@ Our approach is innovative in several ways:
 ## Approaches
 ### Binary classification (distinguishes between nondamaged and damaged cars)
 <div align="center">
-  <img src="./Binary.png" alt=" Binary Classification Accuracy" width="50%" height="auto">
+  <img src="./Binary a.png" alt=" Binary Classification Accuracy" width="50%" height="auto">
 </div>
 
 For the binary classification task:
