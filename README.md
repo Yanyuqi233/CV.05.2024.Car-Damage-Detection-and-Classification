@@ -3,6 +3,7 @@
 ## Motivation and Goal
 The **need for accurate vehicle damage assessment in the fleet management and insurance industries** drives our project. Leveraging our team’s expertise in data science and machine learning, we aim to **develop robust models** using curated datasets from platforms like Kaggle.
 
+
 ## Innovation
 Our approach is innovative in several ways:
 * Move beyond binary classification to include multiple classification tasks, categorizing damages into frontal, side, and rear categories for deeper insights. 
