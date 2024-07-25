@@ -15,7 +15,7 @@ Our approach is innovative in several ways:
 ## Approaches
 ### Binary classification (distinguishes between nondamaged and damaged cars)
 <div align="center">
-  <img src="\binary.png" alt="Binary classification Accuracy">
+  <img src="\Car-Damage-Detection-and-Classification\binary.png" alt=" Binary classification Accuracy">
 </div>
 For the binary classification task:
 * Compare the performance of DenseNet121, MobileNet-v2, ResNet-50, and CLIP against a baseline model.
