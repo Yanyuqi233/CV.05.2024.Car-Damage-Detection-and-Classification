@@ -27,18 +27,18 @@ For the multiple classification task:
 
 ### Binary classification
 <div align="center">
-  <img src="./Binary a.png" alt=" Binary Classification Accuracy" width="50%" height="auto">
+  <img src="./Images/Binary a.png" alt=" Binary Classification Accuracy" width="50%" height="auto">
 </div>
 The trained, mature models perform well in solving this classification problem.
 
 ### Multiple classification
 <div align="center">
-  <img src="./Multi-class.png" alt=" Multiple Classification ROC Curve" width="50%" height="auto">
+  <img src="./Images/Multi-class.png" alt=" Multiple Classification ROC Curve" width="50%" height="auto">
 </div>
 The ResNet50 model performs well overall.
 
 <div align="center">
-  <img src="./CLIP.png" alt=" Multiple Classification ROC Curve" width="50%" height="auto">
+  <img src="./Images/CLIP.png" alt=" Multiple Classification ROC Curve" width="50%" height="auto">
 </div>
 Poor accuracy with multi-damage localization but better than traditional ML methods.
 
