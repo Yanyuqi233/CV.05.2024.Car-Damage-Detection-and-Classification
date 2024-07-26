@@ -42,5 +42,5 @@ The ResNet50 model performs well overall.
 </div>
 Poor accuracy with multi-damage localization but better than traditional ML methods.
 
-* Existing pre-trained traditional models (MobileNet, etc.) already perform well.
-* CLIP models are harder to train and require more data.
+Existing pre-trained traditional models (MobileNet, etc.) already perform well.
+CLIP models are harder to train and require more data.
