@@ -23,7 +23,7 @@ For the multiple classification task:
 * Utilize ResNet-50 and CLIP models to categorize damages into different classes.
 * Manually relabel datasets to ensure high-quality training data for multiclass classification, emphasizing the importance of data relevance and accuracy in our methodologies.
 
-## Result
+## Result and Discussion
 
 ### Binary classification
 <div align="center">
@@ -37,3 +37,10 @@ The trained, mature models perform well in solving this classification problem.
 </div>
 The ResNet50 model performs well overall.
 
+<div align="center">
+  <img src="./CLIP.png" alt=" Multiple Classification ROC Curve" width="50%" height="auto">
+</div>
+Poor accuracy with multi-damage localization but better than traditional ML methods.
+
+* Existing pre-trained traditional models (MobileNet, etc.) already perform well.
+* CLIP models are harder to train and require more data.
