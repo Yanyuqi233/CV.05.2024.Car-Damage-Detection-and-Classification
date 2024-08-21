@@ -1,6 +1,6 @@
 # (Computer Vision 05/2024) Car Damage Detection and Classification
 <div align="center">
-  <img src="./Images/0024.jpeg" alt=" car image " width="50%" height="auto">
+  <img src="./Images/0004.jpeg" alt=" car image " width="50%" height="auto">
 </div>
 
 ## Motivation and Goal
